@@ -1,0 +1,132 @@
+Practico 1 
+
+Ejercicio 1 
+
+una condicion +1 
+un loop + 1 
+estructuras anidadas +1
+condicion dentro de for +1
+
+total = 4 
+
+Ejercicio 2
+
+una estructura de while + 1 
+y no hay mas complejidad 
+total = 1 
+
+Ejercicio 3  
+
+condicion + 1 
+loop +1 
+total=2 
+
+Ejercicio 4
+
+loop+1 
+estructuras anidadas x 2 +2
+condicion x2 + 2 
+total = 5 
+
+Ejercicio 5 
+
+loop +1 
+estructuras anidadas x2 + 2
+loop + 1  
+condicion + 1
+ total = 5  
+
+ejercicio 6
+
+loop +1
+loop +1
+loop +1
+estructuras anidadas +1
+estructuras anidadas +1
+
+total = 5
+
+ejercicio 7
+
+loop +1
+estructuras convinadas +1
+condicion +1
+total = 3
+
+ejercicio 8
+
+loop +1 
+condicion +1 
+estructuras anidadas +1 
+total = 3
+
+ejercicio 9 
+
+condicion +1
+loop +1
+
+total = 2
+
+ejercicio 10 
+
+condicion +1 
+?
+
+ejercicio 11
+
+condicion +1
+
+total = 1
+
+ejercicio 12
+
+condicion+1
+loop+1
+
+total = 2
+
+ejercicio 13 
+
+condicion +1 x3
+
+total = 3
+
+ejercicio 14
+
+loop +1 
+
+total = 1
+
+ejercicio 15
+
+condicion +1 
+
+total = 1
+
+ejercicio 16 
+
+loop +1 
+estructuras anidadas +1 
+loop +1
+
+total = 3
+
+ejercicio 17 
+
+loop +1 
+estructuras anidadas +1
+condicion +1
+
+total = 3
+
+ejercicio 18 
+
+?
+
+
+
+
+
+
+
+
